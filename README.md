@@ -1,1 +1,1 @@
-# python-ejercicios
+# Ejercicios para realizar usando Python.
